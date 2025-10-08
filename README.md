@@ -24,6 +24,8 @@ O app deve permitir que o usuário digite o **peso (kg)** e a **altura (m)**, e 
    - Obesidade: IMC ≥ 30  
 
 ---
+7. Exemplo de como deve ficar ( pode melhor a interface se conseguir!!! )
+<img width="589" height="598" alt="image" src="https://github.com/user-attachments/assets/91c7b3b4-64b2-44a7-ab6f-78876bd39940" />
 
 ## ✅ Código para completar
 ```python
