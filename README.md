@@ -49,9 +49,6 @@ def main(page: ft.Page):
     # Função para calcular o IMC
     def calcular_imc(e):
 
-            )
-            page.snack_bar.open = True
-            page.update()
 
     # Botão de ação
 
